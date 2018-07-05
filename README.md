@@ -1,4 +1,4 @@
-# WinkieMailApp
+# Winkie
 
 An email client for iOS built with Swift 3. This was our group's project for the Hackatruck course, where we studied iOS development and how to use tools available on IBM Cloud, i.e. Watson, NODE-Red and Cloudant.
 
