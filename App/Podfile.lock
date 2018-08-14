@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.7.2)
+  - JTAppleCalendar (7.1.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - JTAppleCalendar (~> 7.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - JTAppleCalendar
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  JTAppleCalendar: 2d4f974f9f3c8b4964d51ca1f6e004883c031fbe
+
+PODFILE CHECKSUM: 43c16b8bcff7663411f73a88ae35a2dd284b0e80
+
+COCOAPODS: 1.5.3
